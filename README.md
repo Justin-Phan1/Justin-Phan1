@@ -20,7 +20,7 @@ Libraries:
 I love cars, running, lifting weights, and personal finance!
 
 ## Connect With Me📫
-[LinkedIn](https://www.linkedin.com/in/justin-phan-/)
+[LinkedIn](https://www.linkedin.com/in/justin-phan-/)\
 Email: contactme.justinphan@gmail.com
 
 
