@@ -13,9 +13,13 @@ Languages:
 
 Developer Tools: 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 Libraries:
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3c8737?style=flat&logo=nltk&logoColor=white)
 
 ## Hobbies and Passions💫
 I love cars, running, lifting weights, and personal finance!
