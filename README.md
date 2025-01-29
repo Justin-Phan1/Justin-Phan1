@@ -22,7 +22,7 @@ Libraries:
 ![NLTK](https://img.shields.io/badge/NLTK-3c8737?style=flat&logo=nltk&logoColor=white)
 
 ## Hobbies and Passions💫
-I love cars, running, lifting weights, and personal finance!
+I love cars, finance, music, working out, and video games!
 
 ## Connect With Me📫
 [LinkedIn](https://www.linkedin.com/in/justin-phan-/)\
