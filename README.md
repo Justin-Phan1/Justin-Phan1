@@ -1,7 +1,7 @@
 # Hey, I'm Justin👋
 
 ## About Me✏️
-I'm a 3rd year software engineering student at Stevens Institute of Technology, and I'm passionate about creating impactful software solutions.
+I'm a 4th year software engineering student at Stevens Institute of Technology, and I'm passionate about creating impactful software solutions.
 
 ## My Tech Stack💻
 Languages: 
